@@ -1,0 +1,18 @@
+{
+    "appName": {
+      "message": "Wedone Notepad"
+    },
+    "appDescription": {
+      "message": "一个简单的记事本，帮助您保存笔记。"
+    },
+    "title": {
+      "message": "记事本"
+    },
+    "placeholder": {
+      "message": "在这里写..."
+    },
+    "saved": {
+      "message": "笔记已保存"
+    }
+  }
+  

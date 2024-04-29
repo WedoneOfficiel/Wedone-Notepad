@@ -1,0 +1,18 @@
+{
+    "appName": {
+      "message": "Wedone Notepad"
+    },
+    "appDescription": {
+      "message": "A simple notepad to keep your notes."
+    },
+    "title": {
+      "message": "Notepad"
+    },
+    "placeholder": {
+      "message": "Write here..."
+    },
+    "saved": {
+      "message": "Note saved"
+    }
+  }
+  

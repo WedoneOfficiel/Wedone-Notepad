@@ -1,0 +1,18 @@
+{
+    "appName": {
+      "message": "Wedone Notepad"
+    },
+    "appDescription": {
+      "message": "Un bloc de notas simple para guardar tus notas."
+    },
+    "title": {
+      "message": "Bloc de notas"
+    },
+    "placeholder": {
+      "message": "Escribe aquí..."
+    },
+    "saved": {
+      "message": "Nota guardada"
+    }
+  }
+  

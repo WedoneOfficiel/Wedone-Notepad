@@ -1,0 +1,18 @@
+{
+    "appName": {
+      "message": "Wedone Notepad"
+    },
+    "appDescription": {
+      "message": "シンプルなノートパッドで、あなたのノートを保持します。"
+    },
+    "title": {
+      "message": "ノートパッド"
+    },
+    "placeholder": {
+      "message": "ここに書いてください..."
+    },
+    "saved": {
+      "message": "ノートが保存されました"
+    }
+  }
+  

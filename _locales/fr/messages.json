@@ -1,0 +1,18 @@
+{
+    "appName": {
+      "message": "Wedone Bloc Note"
+    },
+    "appDescription": {
+      "message": "Un bloc-notes simple pour conserver vos notes."
+    },
+    "title": {
+      "message": "Bloc note"
+    },
+    "placeholder": {
+      "message": "Écrivez ici..."
+    },
+    "saved": {
+      "message": "Note enregistrée"
+    }
+  }
+  
