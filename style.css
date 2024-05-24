@@ -8,15 +8,16 @@
   resize: none;
   background-color: rgba(255,255,255,0.8);
   font-family: 'PC Senior', cursive;
+  font-size: 15px;
 }
 
   
 #container {
   display: flex;
-  flex-direction: column; /* Alignement vertical */
-  justify-content: space-between; /* Espace entre les enfants */
+  flex-direction: column;
+  justify-content: space-between; 
   font-family: Arial, sans-serif;
-  height: 100%; /* Assurez-vous que le conteneur a une hauteur fixe ou flexible */
+  height: 100%; 
 }
   
   h1 {
